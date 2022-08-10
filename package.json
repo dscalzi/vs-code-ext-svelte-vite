@@ -4,7 +4,7 @@
   "description": "A hello world sample extension to demonstrate using Svelte with the Webview UI Toolkit for VS Code.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.46.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Other"
