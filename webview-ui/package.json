@@ -1,0 +1,26 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json"
+  },
+  "dependencies": {
+    "@vscode/webview-ui-toolkit": "^1.0.0",
+    "sirv-cli": "^2.0.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "@tsconfig/svelte": "^2.0.0",
+    "@types/vscode-webview": "^1.57.0",
+    "svelte": "^3.49.0",
+    "svelte-check": "^2.0.0",
+    "svelte-preprocess": "^4.0.0",
+    "tslib": "^2.0.0",
+    "typescript": "^4.0.0",
+    "vite": "^3.0.4"
+  }
+}
